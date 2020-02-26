@@ -7,6 +7,7 @@ int main()
 {
     int n;
     std::cin >> n;
+	n++;
     std::cout << "Hello World!\n";
 }
 
